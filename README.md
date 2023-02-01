@@ -6,19 +6,18 @@
 
 
 ⚡ Systems architect and systems developer ⚡
-
-Project Management: Scrum Agile, PMI
-Programming Languages: PHP, Python, .NET, DELPHI
-Low Code and Mobile: Outsystems
-API: Django Rest API, Flask
-Data Visualization: Microsoft Power BI, Tableau and Microstrategy
-Analytics: Data Brick, PySpark
-Pipeline: Azure Data Factory
-Database: Oracle, Microsoft and MySQL
-Cloud Computing: Azure Cloud
-Containder: Docker, Azure Kubernets 
-Big Data: Google BigQuery, Haddop Hive, HBase, MongoDB
-Privacy Date: Brazilian LGPD
-CI/CD: GitHub, Azure DevOps
+- [x] Project Management: Scrum Agile, PMI
+- [x] Programming Languages: PHP, Python, .NET, DELPHI
+- [x] Low Code and Mobile: Outsystems
+- [x] API: Django Rest API, Flask
+- [x] Data Visualization: Microsoft Power BI, Tableau and Microstrategy
+- [x] Analytics: Data Brick, PySpark
+- [x] Pipeline: Azure Data Factory
+- [x] Database: Oracle, Microsoft and MySQL
+- [x] Cloud Computing: Azure Cloud
+- [x] Containder: Docker, Azure Kubernets 
+- [x] Big Data: Google BigQuery, Haddop Hive, HBase, MongoDB
+- [x] Privacy Date: Brazilian LGPD
+- [x] CI/CD: GitHub, Azure DevOps
 
 
