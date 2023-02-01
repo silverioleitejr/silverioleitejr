@@ -8,29 +8,17 @@
 ⚡ Systems architect and systems developer ⚡
 
 Project Management: Scrum Agile, PMI
-
 Programming Languages: PHP, Python, .NET, DELPHI
-
 Low Code and Mobile: Outsystems
-
 API: Django Rest API, Flask
-
 Data Visualization: Microsoft Power BI, Tableau and Microstrategy
-
 Analytics: Data Brick, PySpark
-
 Pipeline: Azure Data Factory
-
 Database: Oracle, Microsoft and MySQL
-
 Cloud Computing: Azure Cloud
-
 Containder: Docker, Azure Kubernets 
-
 Big Data: Google BigQuery, Haddop Hive, HBase, MongoDB
-
 Privacy Date: Brazilian LGPD
-
 CI/CD: GitHub, Azure DevOps
 
 
