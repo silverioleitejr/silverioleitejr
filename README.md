@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silverioleitejr
 - 👀 I’m interested in Data Enginner, Python, DataBrick, Azure
-- 🌱 I’m currently learning Apache AirFlow
+- 🌱 I’m currently learning Apache AirFlow, DBT, FastAPI, FLask and Poetry
 - 💞️ I’m looking to collaborate on Brazilian Invoice Eletronics (NFe), ODO ERP
 - 📫 Skype: silverio.leitejr | e-mail: silverio.leitejr@og1.com.br | LinkedIn: https://www.linkedin.com/in/silverioleite/
 
