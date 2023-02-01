@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on Brazilian Invoice Eletronics (NFe), ODO ERP
 - 📫 Skype: silverio.leitejr | e-mail: silverio.leitejr@og1.com.br | LinkedIn: https://www.linkedin.com/in/silverioleite/
 
-<!---
-silverioleitejr/silverioleitejr is 
 
 ⚡ Systems architect and systems developer ⚡
 
@@ -23,4 +21,4 @@ Big Data: Google BigQuery, Haddop Hive, HBase, MongoDB
 Privacy Date: Brazilian LGPD
 CI/CD: GitHub, Azure DevOps
 
---->
+
