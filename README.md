@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @silverioleitejr
-- 👀 I’m interested in Data Enginner, Python, DataBrick, Azure
-- 🌱 I’m currently working on Apache AirFlow, DBT, FastAPI, FLask and Poetry
+- 👀 I’m interested in ML, AI, Python, DataBrick, Azure
+- 🌱 I’m currently working: Apache AirFlow, DBT,  AWS Redshift, Snowflake, Talend, Pentaho, Python, Power BI, Tableau
 - 💞️ I’m looking to collaborate on Brazilian Invoice Eletronics (NFe), ODO ERP
 - 📫 Skype: silverio.leitejr | e-mail: silverio.leitejr@og1.com.br | LinkedIn: https://www.linkedin.com/in/silverioleite/
 
+Se my profile here: 
+https://studio--solution-architect-portfolio.us-central1.hosted.app/#https://www.linkedin.com/in/silverioleite/
 
 ⚡ Systems architect and systems developer ⚡
 - [x] Project Management: Scrum Agile, PMI
